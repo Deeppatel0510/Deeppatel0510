@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Deeppatel0510/Deeppatel0510/blob/main/Gituhub_1.png)
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">Data Analyst/ Data Scientist</h3>
 
