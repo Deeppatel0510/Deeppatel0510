@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">Data Analyst/ Data Scientist</h3>
 
-- 🔭 I’m currently working on [Voyage Analytics Integrating MLOps in Travel](https://github.com/Deeppatel0510/Voyage-Analytics-Integrating-MLOps-in-Travel)
+- 🔭 I’m currently working on [Voyage Analytics Integrating MLOps in Travel](https://github.com/Deeppatel0510/Financial-Forecasting-Frontier-Distributed-ML)
 
 - 🌱 I’m currently learning **Tableau, Lookerstudio, SQL, Machine Learning**
 
-- 👯 I’m actively looking to [collaborate on any real Project](https://www.linkedin.com/in/deep-patel-b85bb0211/)
+- 👯 I’m actively looking to [collaborate on any real Project](https://www.linkedin.com/in/deep-patel98/)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Deeppatel0510)
 
