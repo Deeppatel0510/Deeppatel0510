@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">Data Analyst/ Data Scientist</h3>
 
-- 🔭 I’m currently working on [Voyage Analytics Integrating MLOps in Travel](https://github.com/Deeppatel0510/Specialized_LLM_Bot_Using_Pre_Trained_Models)
+- 🔭 I’m currently working on [Specialized_LLM_Bot_Using_Pre_Trained_Models](https://github.com/Deeppatel0510/Specialized_LLM_Bot_Using_Pre_Trained_Models)
 
 - 🌱 I’m currently learning **Tableau, Lookerstudio, SQL, Machine Learning**
 
